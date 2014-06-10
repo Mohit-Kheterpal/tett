@@ -16,6 +16,9 @@ namespace sdfsdew333
 
 		protected override void OnCreate (Bundle bundle)
 		{
+			//asdfdsf
+			//asdfsadf
+			//asdfasdf
 			base.OnCreate (bundle);
 
 			// Set our view from the "main" layout resource
